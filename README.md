@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HyunSooPakkk.
-- 👀 I’m interested in Front-End programming and design.
+- 👋 Bonjour, I’m @HyunSooPakkk.
+- 👀 I’m interested in front-end programming and web design.
 - 🌱 I’m currently learning Vue.js 3.0,Figma and Japanese Language by myself.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me? instagram @hymnsoo :)
